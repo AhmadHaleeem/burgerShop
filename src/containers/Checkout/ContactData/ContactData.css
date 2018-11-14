@@ -8,9 +8,7 @@
     box-sizing: border-box;
 }
 
-:local(.Input) {
-    display: block;
-}
+
 
 @media (min-width: 600px) {
     :local(.ContactData) {

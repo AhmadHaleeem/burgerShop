@@ -22,3 +22,7 @@
 :local(.Danger) {
     color: #944317;
 }
+:local(.Button):disabled {
+    color: #ccc;
+    cursor: not-allowed;
+}
